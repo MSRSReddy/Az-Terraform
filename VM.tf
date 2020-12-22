@@ -41,3 +41,5 @@ resource "azurerm_linux_virtual_machine" "myterraformvm" {
         environment = "Terraform Demo"
     }
 }
+
+#Change log Not Inc on Linux Machines
